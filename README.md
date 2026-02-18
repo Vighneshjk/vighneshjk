@@ -54,9 +54,11 @@ Real-time hand gesture recognition using deep learning & OpenCV.
 
 ## 📊 GitHub Stats
 
-![Vighnesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vighneshjk&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vighneshjk&show_icons=true&theme=default)
 
----
+## 🔥 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vighneshjk&layout=compact&theme=default)
 
 ## 📫 Connect With Me
 
