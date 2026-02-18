@@ -72,8 +72,8 @@ Mobile-first system built with React Native + FastAPI.
 
 ## 📫 Connect With Me
 
-- 📧 Email: ashangamingyt7@gmail.com  
-- 💼 LinkedIn: (Add your LinkedIn link here)
+- 📧 Email: vighneshjk1@gmail.com  
+- 💼 LinkedIn: www.linkedin.com/in/vighnesh-jk-033223357
 
 ---
 
