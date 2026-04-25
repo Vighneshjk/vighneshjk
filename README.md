@@ -47,17 +47,17 @@ modern UI, scalable backend systems, and AI integration.
 
 ## 🔥 Featured Projects
 
-### 🚗 Rydex – Car Rental & Taxi Booking Platform
-Full-stack booking system with authentication, admin dashboard, and Razorpay payment integration.
+### 🤖 AI Agent 4.3  
+Advanced AI agent capable of handling multi-step tasks, integrating APIs, and automating workflows with intelligent decision-making.
 
-### 🤖 Doctor AI – Intelligent Medical Assistant
-AI-powered symptom analysis and response generation system using machine learning.
+### 🔐 Cipher X  
+Security-focused system for encryption, authentication, and secure data handling with modern cryptographic techniques.
 
-### ✋ Sign Language Detection System
+### 📄 AI Documentation Search (RAG)  
+Retrieval-Augmented Generation system that enables intelligent document search and contextual answers using embeddings and LLMs.
+
+### ✋ Sign Language Detection System  
 Real-time hand gesture recognition using deep learning and OpenCV.
-
-### 📚 BookHive – Book Management Platform
-Mobile-first system built with React Native + FastAPI.
 
 ---
 
