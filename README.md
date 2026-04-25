@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vighnesh</h1>
-<h3 align="center">🚀 AI-Powered Full Stack Developer | Django • React • Generative AI</h3>
+<h3 align="center">🚀 AI-Powered Full Stack Developer | Django • FastAPI • React • Generative AI</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20Full%20Stack-blue" />
@@ -14,11 +14,12 @@
 💡 Passionate about building intelligent web applications that combine  
 modern UI, scalable backend systems, and AI integration.
 
-- 🔥 Developing full-stack apps using **Django & React**
-- 🧠 Working with **Generative AI & Machine Learning**
+- 🔥 Developing full-stack apps using **Django, FastAPI & React**
+- 🧠 Working with **Generative AI, LLMs & AI Agents**
+- ⚡ Building high-performance APIs with **FastAPI**
+- 🤖 Exploring **LangChain, RAG & AI workflows**
 - ☁️ Deploying projects using **AWS & Railway**
 - 🔐 Focused on secure and production-ready architecture
-- 📈 Continuously improving problem-solving & system design skills
 
 ---
 
@@ -26,17 +27,34 @@ modern UI, scalable backend systems, and AI integration.
 
 ### 💻 Full Stack Development
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,react,tailwind,postgres" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,react,tailwind,postgres" />
 </p>
 
-### 🧠 AI & Data
+---
+
+### 🤖 AI / ML / Computer Vision
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
 </p>
 
+<p>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-00C853?style=for-the-badge"/>
+</p>
+
 - NumPy  
 - Pandas  
-- Generative AI APIs  
+
+---
+
+### 🎮 3D / Simulation
+<p>
+  <img src="https://skillicons.dev/icons?i=unity" />
+</p>
+
+---
 
 ### ☁️ Tools & Deployment
 <p>
@@ -48,25 +66,26 @@ modern UI, scalable backend systems, and AI integration.
 ## 🔥 Featured Projects
 
 ### 🤖 AI Agent 4.3  
-Advanced AI agent capable of handling multi-step tasks, integrating APIs, and automating workflows with intelligent decision-making.
+Advanced AI agent capable of handling multi-step tasks, integrating APIs, and automating workflows.
 
 ### 🔐 Cipher X  
-Security-focused system for encryption, authentication, and secure data handling with modern cryptographic techniques.
+Security-focused system for encryption, authentication, and secure data handling.
 
 ### 📄 AI Documentation Search (RAG)  
-Retrieval-Augmented Generation system that enables intelligent document search and contextual answers using embeddings and LLMs.
+Context-aware document search using embeddings and LLMs.
 
 ### ✋ Sign Language Detection System  
-Real-time hand gesture recognition using deep learning and OpenCV.
+Real-time gesture recognition using OpenCV, MediaPipe & Deep Learning.
 
 ---
 
 ## 📊 Development Focus
 
 - Scalable REST API Architecture  
-- AI Integration into Web Applications  
+- High-performance backend systems (**FastAPI**)  
+- AI Agent & RAG-based Applications  
+- Computer Vision (**MediaPipe + OpenCV**)  
 - Secure Authentication Systems  
-- Clean & Maintainable Code  
 
 ---
 
